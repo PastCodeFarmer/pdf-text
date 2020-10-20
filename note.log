@@ -1,0 +1,2 @@
+The code is used as exeutive file (pdftotext32.exe and pdftotext64.exe) in software TextSeek. 
+You can build it based on Visual Studio 2008.
